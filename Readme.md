@@ -7,7 +7,7 @@ Timer is a PHP library for dealing with precise time measurements.
 Use the package manager [composer](https://getcomposer.org) to install Timer.
 
 ```bash
-composer require shiishiji/php_timer
+composer require shiishiji/timer
 ```
 
 ## Usage
